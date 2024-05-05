@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Verdadero Primera Aplicación</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="i_am_reach">Ya lo sabía xD</string>
+</resources>
