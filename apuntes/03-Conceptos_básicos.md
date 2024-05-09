@@ -1,4 +1,8 @@
 # Conceptos básicos
+## Activities 
+- Un `activity` es cada pantalla de nuestra aplicación. 
+- Están guardados en la carpeta `res/layout
+` 
 ## Views
 - Básicamente todo lo que vemos en la pantalla de una aplicación Android es un View. 
 - Están ligados a un área rectangular. 
