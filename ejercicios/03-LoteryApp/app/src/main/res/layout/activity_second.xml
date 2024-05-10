@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_orange_light"
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="60dp"
+        android:layout_marginHorizontal="20dp"
+        android:contentDescription="TODO"
+        android:src="@drawable/billar_ball_logo"
+        android:background="@drawable/circle"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:text="Your lottery number is:"
+        android:layout_marginHorizontal="20dp"
+        />
+
+
+    <TextView
+        android:id="@+id/numbers_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textColor="@android:color/background_light"
+        android:shadowColor="@color/black"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="1.6"
+        android:fontFamily="sans-serif-black"
+        android:text="25 67 89 90 90 90"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Share"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+        android:id="@+id/share_button" />
+
+</LinearLayout>
