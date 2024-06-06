@@ -12,13 +12,13 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_weight="@integer/material_motion_duration_long_1"
-        android:contentDescription="Lotto logo"
+        android:contentDescription="@string/lotto_logo"
         android:src="@drawable/lotery_logo" />
 
     <EditText
         android:id="@+id/editTextText"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:textSize="20sp"
         android:padding="10dp"
         android:layout_marginHorizontal="10dp"

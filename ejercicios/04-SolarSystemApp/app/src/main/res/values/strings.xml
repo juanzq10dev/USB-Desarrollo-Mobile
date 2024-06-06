@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Solar System</string>
+    <string name="app_title">SOLAR SYSTEM APP</string>
+    <string name="list_view">List View</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="icon_description">Planets icon</string>
+</resources>

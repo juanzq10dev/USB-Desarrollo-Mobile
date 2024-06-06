@@ -1,0 +1,11 @@
+# Show solar system
+- Main Activity, that allows choosing the ListView and the RecyclerView
+- Show the name an image of the planet and the moons.
+- 3 activity
+- Main activity contains title and two button. 
+- Layouts should have: 
+    - Icon 
+    - The planet name. 
+    - How many moons the planet has. 
+    - Choose whatever layout managers.
+    - Display a toast with the planet name when the the item is tapped. 

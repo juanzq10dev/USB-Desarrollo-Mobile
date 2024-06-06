@@ -6,14 +6,15 @@
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:padding="16dp"
-    android:divider="@color/white"
     >
 
     <ImageView
         android:layout_width="75dp"
         android:layout_height="75dp"
+        android:layout_marginEnd="10dp"
         android:contentDescription="@string/icon_description"
-        android:src="@drawable/earth" />
+        android:id="@+id/planet_image"
+        />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -24,7 +25,7 @@
             android:id="@+id/planet_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name"
+            android:text=""
             android:textColor="@color/white"
             android:textSize="30sp" />
 
@@ -32,7 +33,7 @@
             android:id="@+id/planet_moons"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Moons"
+            android:text=""
             android:textColor="@color/white"
             android:textSize="20sp" />
 

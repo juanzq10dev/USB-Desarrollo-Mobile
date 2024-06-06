@@ -1,4 +1,5 @@
 package com.example.solarsystem
 
-class Planet {
-}
+import android.media.Image
+
+data class Planet(val name: String, val moons: Int, val image: Int) { }
