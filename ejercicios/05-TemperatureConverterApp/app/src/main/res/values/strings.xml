@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureConverterApp</string>
+    <string name="convert">Convert</string>
+    <string name="temperature_icon">Temperature icon</string>
+    <string name="show_fahrenheit">The Fahrenheit temperature is: </string>
+    <string name="celcius_grades">Celcius grades</string>
+</resources>
