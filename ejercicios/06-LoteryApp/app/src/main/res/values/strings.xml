@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lotery App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_your_name">Insert your name</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="your_lottery_number_is">Your lottery number is:</string>
+    <string name="lotto_logo">Lotto logo</string>
+    <string name="lotto_number">Lotto number</string>
+</resources>
