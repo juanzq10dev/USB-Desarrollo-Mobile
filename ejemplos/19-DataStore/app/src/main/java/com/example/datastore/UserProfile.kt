@@ -1,4 +1,4 @@
 package com.example.datastore
 
-class UserProfile {
+data class UserProfile(val name: String, val vip: Boolean) {
 }
